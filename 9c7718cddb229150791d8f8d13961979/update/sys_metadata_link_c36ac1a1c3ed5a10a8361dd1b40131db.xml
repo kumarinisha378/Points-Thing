@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4ea905e1c36d5a10a8361dd1b40131ec</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_snc_pointsthing_message"&gt;
+    &lt;x_snc_pointsthing_message action="INSERT_OR_UPDATE"&gt;
+        &lt;message&gt;&lt;![CDATA['Participating for the 1st time. This '+user+ ' has scored a' +points + ' points.']]&gt;&lt;/message&gt;
+        &lt;point&gt;1000&lt;/point&gt;
+        &lt;send_to_channel&gt;true&lt;/send_to_channel&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-10-29 11:28:03&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;4ea905e1c36d5a10a8361dd1b40131ec&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-10-29 11:34:10&lt;/sys_updated_on&gt;
+    &lt;/x_snc_pointsthing_message&gt;
+    &lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;
+        &lt;id&gt;4ea905e1c36d5a10a8361dd1b40131ec&lt;/id&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-10-29 11:28:03&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;883a056dc3ad5a10a8361dd1b401313f&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-10-29 11:28:03&lt;/sys_updated_on&gt;
+        &lt;table&gt;x_snc_pointsthing_message&lt;/table&gt;
+        &lt;use_es_latest&gt;true&lt;/use_es_latest&gt;
+    &lt;/sys_es_latest_script&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-29 11:29:04</sys_created_on>
+        <sys_id>c36ac1a1c3ed5a10a8361dd1b40131db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Created 2024-10-29 04:28:03</sys_name>
+        <sys_package display_value="Points Thing" source="x_snc_pointsthing">9c7718cddb229150791d8f8d13961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Points Thing">9c7718cddb229150791d8f8d13961979</sys_scope>
+        <sys_update_name>sys_metadata_link_c36ac1a1c3ed5a10a8361dd1b40131db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-29 11:34:18</sys_updated_on>
+        <tablename>x_snc_pointsthing_message</tablename>
+    </sys_metadata_link>
+</record_update>
