@@ -3,7 +3,6 @@
         <active>true</active>
         <application display_value="Points Thing">f2f71401db629150791d8f8d139619ad</application>
         <assessment/>
-        <content_page/>
         <device_type/>
         <filter/>
         <hint/>
@@ -18,6 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
+        <require_confirmation>false</require_confirmation>
         <roles>x_snc_pointsthing.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>earl.duque</sys_created_by>

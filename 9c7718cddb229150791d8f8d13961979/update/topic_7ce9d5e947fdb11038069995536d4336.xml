@@ -22,7 +22,7 @@
         <sys_update_name>topic_7ce9d5e947fdb11038069995536d4336</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-10-10 06:31:43</sys_updated_on>
-        <taxonomy display_value="PointsThing">bab9d1e947fdb11038069995536d4365</taxonomy>
+        <taxonomy display_value="">bab9d1e947fdb11038069995536d4365</taxonomy>
         <template display_value="emp_taxonomy_topic">4fb26c9cc3d030102ec1a589a840ddbd</template>
         <topic_based_navigation>false</topic_based_navigation>
         <topic_contributor/>

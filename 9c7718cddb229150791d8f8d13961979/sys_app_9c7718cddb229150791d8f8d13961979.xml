@@ -49,6 +49,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>pointsthing.png</file_name>
         <hash>34ca3e26973dab7113ded6b654879575f15b3cf20f244fa63b57dd86976451a5</hash>
         <image_height/>

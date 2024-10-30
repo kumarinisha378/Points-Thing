@@ -42,7 +42,7 @@
         <update_guid_history>36f714017c629150b87ae8e44e78a2e3:-82901757</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_snc_pointsthing_payload.x_snc_pointsthing.payload_user">3308d401db629150791d8f8d13961999</sys_audit_delete>
+        <sys_audit_delete display_value="">3308d401db629150791d8f8d13961999</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>earl.duque</sys_created_by>
         <sys_created_on>2022-10-13 02:50:14</sys_created_on>

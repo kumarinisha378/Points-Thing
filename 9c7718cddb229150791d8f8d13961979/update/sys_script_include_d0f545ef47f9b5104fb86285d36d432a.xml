@@ -6,6 +6,7 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Extension of the PointsThing include to support API-specific invocations</description>
+        <mobile_callable>false</mobile_callable>
         <name>PointsThingAPI</name>
         <script><![CDATA[var PointsThingAPI = Class.create();
 PointsThingAPI.prototype = Object.extendsObject(x_snc_pointsthing.PointsThing,{

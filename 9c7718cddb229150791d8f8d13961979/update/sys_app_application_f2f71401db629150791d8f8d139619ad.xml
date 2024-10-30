@@ -7,7 +7,7 @@
         <hint/>
         <name>Points Thing</name>
         <order>100</order>
-        <roles/>
+        <roles>snc_internal</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>earl.duque</sys_created_by>
         <sys_created_on>2022-10-13 02:49:54</sys_created_on>
