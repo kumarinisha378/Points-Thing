@@ -16,7 +16,7 @@
         <sys_updated_by>guest</sys_updated_by>
         <sys_updated_on>2022-10-13 04:26:08</sys_updated_on>
         <target_name>Slacker</target_name>
-        <target_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</target_scope>
+        <target_scope display_value="">b02cf9e61b861d10d806dc23b24bcb3f</target_scope>
         <target_type>sys_script_include</target_type>
     </sys_scope_privilege>
 </record_update>

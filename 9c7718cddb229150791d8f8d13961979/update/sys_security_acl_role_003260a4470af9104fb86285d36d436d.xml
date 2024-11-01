@@ -14,6 +14,5 @@
         <sys_updated_by>SapphicFire</sys_updated_by>
         <sys_updated_on>2023-10-19 10:09:27</sys_updated_on>
         <sys_user_role display_value="x_snc_pointsthing.api_giver" name="x_snc_pointsthing.api_giver">eae1ec64470af9104fb86285d36d430a</sys_user_role>
-        <transaction_id/>
     </sys_security_acl_role>
 </record_update>

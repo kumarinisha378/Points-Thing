@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>giver</element>
-            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="00abf051b9103110d0adbb64e3a1e94f">dc10386747b9b5104fb86285d36d4388</list_id>
+            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="ed64b340e412021008dda4ccc4008028">dc10386747b9b5104fb86285d36d4388</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>target</element>
-            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="00abf051b9103110d0adbb64e3a1e94f">dc10386747b9b5104fb86285d36d4388</list_id>
+            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="ed64b340e412021008dda4ccc4008028">dc10386747b9b5104fb86285d36d4388</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>source</element>
-            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="00abf051b9103110d0adbb64e3a1e94f">dc10386747b9b5104fb86285d36d4388</list_id>
+            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="ed64b340e412021008dda4ccc4008028">dc10386747b9b5104fb86285d36d4388</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -48,7 +48,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>reason</element>
-            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="00abf051b9103110d0adbb64e3a1e94f">dc10386747b9b5104fb86285d36d4388</list_id>
+            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="ed64b340e412021008dda4ccc4008028">dc10386747b9b5104fb86285d36d4388</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -63,7 +63,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="00abf051b9103110d0adbb64e3a1e94f">dc10386747b9b5104fb86285d36d4388</list_id>
+            <list_id display_value="x_snc_pointsthing_api_point" element="NULL" name="x_snc_pointsthing_api_point" parent="NULL" relationship="NULL" sys_domain="global" view="ed64b340e412021008dda4ccc4008028">dc10386747b9b5104fb86285d36d4388</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -100,7 +100,7 @@
             <sys_updated_by>SapphicFire</sys_updated_by>
             <sys_updated_on>2023-10-16 08:35:09</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">00abf051b9103110d0adbb64e3a1e94f</view>
+            <view display_value="Reference List" name="sys_ref_list">ed64b340e412021008dda4ccc4008028</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

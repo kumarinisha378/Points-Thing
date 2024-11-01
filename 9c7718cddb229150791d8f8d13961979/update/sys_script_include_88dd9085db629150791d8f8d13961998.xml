@@ -8,7 +8,6 @@
         <description/>
         <mobile_callable>false</mobile_callable>
         <name>PointsThing</name>
-        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[var PointsThing = Class.create();
 PointsThing.prototype = {
     initialize: function() {

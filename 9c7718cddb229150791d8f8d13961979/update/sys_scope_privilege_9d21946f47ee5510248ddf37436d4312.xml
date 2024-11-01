@@ -16,7 +16,7 @@
         <sys_updated_by>earl.duque</sys_updated_by>
         <sys_updated_on>2022-10-20 20:44:50</sys_updated_on>
         <target_name>x_snc_slackerbot_user</target_name>
-        <target_scope display_value="SlackerBot">b02cf9e61b861d10d806dc23b24bcb3f</target_scope>
+        <target_scope display_value="">b02cf9e61b861d10d806dc23b24bcb3f</target_scope>
         <target_type>sys_db_object</target_type>
     </sys_scope_privilege>
 </record_update>
